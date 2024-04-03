@@ -152,5 +152,9 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 
 
 ---
+Thanks to the following repositories from which much of this content was adopted:
+- https://github.com/metame-ai/awesome-audio-plaza
+- https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation
+- https://github.com/doodleryul/Awesome-music-generation-model
 
-This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker). It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic. 
+
