@@ -15,6 +15,10 @@ This repository is a collection of projects at the intersection of artificial in
 - [Slides & Presentations](#slides-&-presentations)
 
 
+## Products
+- suno.ai
+- udio
+
 ## GitHub projects
 
 - [Magenta](https://github.com/magenta/magenta): Music and Art Generation with Machine Intelligence 🎵🖌️ (18712 stars)
